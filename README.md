@@ -13,8 +13,8 @@
 <br>
 <h3> 💘 My Velog & My BJ 💘</h3>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=youbeen)](https://velog.io/@youbeen) 
- &nbsp;
+<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=youbeen)](https://velog.io/@youbeen) 
+ &nbsp; -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youbeen)](https://solved.ac/youbeen/)
 <br>
 <h2> Once I've Used 💻</h2>
